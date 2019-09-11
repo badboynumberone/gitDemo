@@ -1,5 +1,6 @@
 package day02;
 
+import java.util.Arrays;
 import java.util.LinkedList;
 
 /*
@@ -16,6 +17,8 @@ LinkedList
 public class ListDemo {
     public static void main(String[] args) {
        int[] intarr = {1,2,3,6,5,49,8};
+        System.out.println();
+        System.out.println(Arrays.toString(intarr));
     }
 
 }
