@@ -15,7 +15,7 @@ LinkedList
 * */
 public class ListDemo {
     public static void main(String[] args) {
-        System.out.println();
-        System.out.println("");
+       int[] intarr = {1,2,3,6,5,49,8};
     }
+
 }
