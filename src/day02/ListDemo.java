@@ -20,6 +20,7 @@ public class ListDemo {
         System.out.println();
         System.out.println(Arrays.toString(intarr));
         System.out.println("尼玛的傻逼玩意别瞎比比了");
+        System.out.println("lalalaxixiix");
     }
 
 }

@@ -12,5 +12,6 @@ public class exercise {
         int[] arr = {1,56,7812,3,24,59,852,2};
         System.out.println(Arrays.toString(arr));
         System.out.println("嘻嘻嘻哈哈哈你到底是怎么了");
+        System.out.println( "addgdsg");
     }
 }
