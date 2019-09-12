@@ -17,5 +17,6 @@ public class exercise {
         System.out.println("这是在some-feature上编辑的内容");
 
         System.out.println("正在开发某些新型的功能例如注册的功能");
+        System.out.println("注册功能第二次开发");
     }
 }
