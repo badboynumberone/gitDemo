@@ -2,6 +2,7 @@ package day02;
 
 import java.util.Arrays;
 import java.util.LinkedList;
+import java.util.Scanner;
 
 /*
 * 集合
@@ -16,11 +17,7 @@ LinkedList
 * */
 public class ListDemo {
     public static void main(String[] args) {
-       int[] intarr = {1,2,3,6,5,49,8};
-        System.out.println();
-        System.out.println(Arrays.toString(intarr));
-        System.out.println("尼玛的傻逼玩意别瞎比比了");
-        System.out.println("lalalaxixiix");
+
     }
 
 }

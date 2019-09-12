@@ -11,6 +11,9 @@ public class exercise {
         ArrayList<Integer> array = new ArrayList<>();
         int[] arr = {1,56,7812,3,24,59,852,2};
         System.out.println(Arrays.toString(arr));
+
+        int[] intArr = new int[]{1,2,3,4,5,6,9,8,7,45,6};
+        ;
         System.out.println("这是在some-feature上编辑的内容");
     }
 }
