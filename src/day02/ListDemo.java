@@ -25,6 +25,7 @@ public class ListDemo {
         System.out.println("role的第二个版本");
         System.out.println("在开发分类第一个版本");
         System.out.println("分类旗下的小工呢");
+        System.out.println("开发两个小功能");
     }
 
 }
