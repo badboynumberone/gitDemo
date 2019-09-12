@@ -39,6 +39,7 @@ public class ArrayDemo {
         System.out.println();
         Integer a =20;
         System.out.println("这是王磊添加的");
-
+        System.out.println("产品第一次开发");
+        System.out.println("产品功能第二次开发，准备工作已经做完，准备开发过程中");
     }
 }
