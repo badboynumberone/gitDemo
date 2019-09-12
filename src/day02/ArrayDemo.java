@@ -42,5 +42,6 @@ public class ArrayDemo {
         System.out.println("产品第一次开发");
         System.out.println("产品功能第二次开发，准备工作已经做完，准备开发过程中");
         System.out.println("随便添加点什么");
+        System.out.println("new中添加的东西");
     }
 }
