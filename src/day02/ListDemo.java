@@ -21,6 +21,8 @@ public class ListDemo {
         System.out.println("登录功能开发完成，准备发布");
         System.out.println("登录功能发现问题现在准备重新开发，开发出另外一版本");
         System.out.println("login功能第三次开发欧耶");
+        System.out.println("正在准备开发role功能");
+        System.out.println("role的第二个版本");
     }
 
 }
