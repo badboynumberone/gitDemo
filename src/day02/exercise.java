@@ -15,5 +15,8 @@ public class exercise {
         int[] intArr = new int[]{1,2,3,4,5,6,9,8,7,45,6};
         ;
         System.out.println("这是在some-feature上编辑的内容");
+
+        System.out.println("正在开发某些新型的功能例如注册的功能");
+        System.out.println("注册功能第二次开发");
     }
 }
