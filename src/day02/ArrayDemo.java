@@ -45,5 +45,6 @@ public class ArrayDemo {
         String str01 = new String(strArr);
         System.out.println(str01);
         System.out.println(str.lastIndexOf(""));//默认字符串，
+        System.out.println("lalal");
     }
 }
