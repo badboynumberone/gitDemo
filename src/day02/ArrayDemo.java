@@ -50,5 +50,6 @@ public class ArrayDemo {
         System.out.println("haha撒黝黑");
         System.out.println("再来一次");
         System.out.println("lala");
+        System.out.println("再试一次");
     }
 }
