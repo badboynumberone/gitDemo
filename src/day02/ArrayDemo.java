@@ -48,5 +48,6 @@ public class ArrayDemo {
         System.out.println("这是王磊添加的");
         System.out.println("new中添加的东西");
         System.out.println("haha撒黝黑");
+        System.out.println("再来一次");
     }
 }
