@@ -49,5 +49,6 @@ public class ArrayDemo {
         System.out.println("new中添加的东西");
         System.out.println("haha撒黝黑");
         System.out.println("再来一次");
+        System.out.println("lala");
     }
 }
