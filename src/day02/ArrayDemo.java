@@ -46,11 +46,8 @@ public class ArrayDemo {
         System.out.println(str.lastIndexOf(""));//默认字符串，
         System.out.println("lalal");
         System.out.println("这是王磊添加的");
-        System.out.println("产品第一次开发");
-        System.out.println("我他妈还想在这里加点东西哈哈哈");
-        System.out.println("产品功能第二次开发，准备工作已经做完，准备开发过程中");
-        System.out.println("随便添加点什么");
-        System.out.println("什么玩意竟然被发现了");
         System.out.println("new中添加的东西");
+        System.out.println("haha撒黝黑");
+        System.out.println("再来一次");
     }
 }
