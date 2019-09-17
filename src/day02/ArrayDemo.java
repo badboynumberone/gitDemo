@@ -51,5 +51,8 @@ public class ArrayDemo {
         System.out.println("嘻嘻嘻");
         System.out.println("ajajajja");
         System.out.println("这是王磊添加的");
+        System.out.println("嘻嘻嘻");
+        System.out.println("ajajajja");
+        System.out.println("这是王磊添加的");
     }
 }
