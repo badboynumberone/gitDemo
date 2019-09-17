@@ -47,10 +47,6 @@ public class ArrayDemo {
         System.out.println("lalal");
         System.out.println("这是王磊添加的");
         System.out.println("new中添加的东西");
-        System.out.println("haha撒黝黑");
-        System.out.println("再来一次");
-        System.out.println("lala");
-        System.out.println("再试一次");
-        System.out.println("现在是login编辑");
+        System.out.println("lalalal");
     }
 }
