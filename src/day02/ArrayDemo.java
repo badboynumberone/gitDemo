@@ -49,5 +49,6 @@ public class ArrayDemo {
         System.out.println("new中添加的东西");
         System.out.println("lalalal");
         System.out.println("嘻嘻嘻");
+        System.out.println("ajajajja");
     }
 }
