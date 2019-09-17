@@ -29,30 +29,5 @@ public class ArrayDemo {
         System.out.println(Arrays.equals(intArr01,intArr02));
         //生成一个随机数的两周方式
         //默认是double类型
-        System.out.println("随机数"+Math.random());
-        System.out.println(new Random().nextDouble());
-        //生成一个0-80的数
-        System.out.println((int)(20+(new Random().nextDouble()*61)));
-        Random rm = new Random();
-        int num = rm.nextInt(600);
-        System.out.println(num);
-        System.out.println();
-        Integer a =20;
-        String str = "abcd";
-        char[] strArr = str.toCharArray();
-        System.out.println(Arrays.toString(strArr));
-        String str01 = new String(strArr);
-        System.out.println(str01);
-        System.out.println(str.lastIndexOf(""));//默认字符串，
-        System.out.println("lalal");
-        System.out.println("这是王磊添加的");
-        System.out.println("new中添加的东西");
-        System.out.println("lalalal");
-        System.out.println("嘻嘻嘻");
-        System.out.println("ajajajja");
-        System.out.println("这是王磊添加的");
-        System.out.println("嘻嘻嘻");
-        System.out.println("ajajajja");
-        System.out.println("这是王磊添加的");
     }
 }
