@@ -1,3 +1,10 @@
+<<<<<<< HEAD
+=======
+hddsgdgdagdasggdagsgdsello,world
+rsaf124525
+hello,boy145164
+adgaadsgdgadsgggg34253
+>>>>>>> ceb0093506c0777c425319ca7d87cc4c1d5880ad
 hsdgddsgdgdagdasggdagsgdsello,world
 rsaf214325
 hello,boy
